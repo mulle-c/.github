@@ -1,5 +1,3 @@
-# mulle-c
-
 The mulle-c library collection is written for C11. It only uses
 standard C libraries such as `string` or `stdlib`.
 
